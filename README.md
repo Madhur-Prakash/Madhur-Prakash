@@ -26,7 +26,6 @@ A **Tech Enthusiast** and **Problem Solver** passionate about creating secure, s
 ### 🚀 Current Projects:
 - **To-Do List**: [GitHub Repository](https://github.com/Madhur-Prakash/Todo-List)  
 - **Chat-App**: [GitHub Repository](https://github.com/Madhur-Prakash/chat-app)  
-- **PDF Merging Website** *(Ongoing)*: Building a user-friendly platform for merging PDF files seamlessly.
 
 ---
 
