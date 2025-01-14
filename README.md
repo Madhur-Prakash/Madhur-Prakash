@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Madhur Prakash
 
-<!--
-**Madhur-Prakash/Madhur-Prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Tech Enthusiast** and **Problem Solver** passionate about creating secure, scalable, and innovative solutions. 
+---
 
-Here are some ideas to get you started:
+### 🌱 Currently:
+- Enhancing expertise in **API development**.
+- Learning **LangServe** and building a deeper understanding of **modern tech ecosystems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Skills and Tools:
+- **Programming**: Python, SQL, JavaScript  
+- **Cybersecurity**: Network Security 
+- **Blockchain**: Smart Contracts, Decentralized Applications (DApps)  
+- **Tools**: Postman, Git
+
+---
+
+### 🤖 Passionate about:
+- Exploring how **Blockchain** can transform digital security and privacy.   
+- Sharing knowledge through writing and contributing to the tech community.  
+
+---
+
+### 🚀 Current Projects:
+- **To-Do List**: [GitHub Repository](https://github.com/Madhur-Prakash/Todo-List)  
+- **Chat-App**: [GitHub Repository](https://github.com/Madhur-Prakash/chat-app)  
+- **PDF Merging Website** *(Ongoing)*: Building a user-friendly platform for merging PDF files seamlessly.
+
+---
+
+### 📝 Writing:
+- Recently started writing on [Medium](https://medium.com/@madhurprakash2005).
+
+---
+
+### 🌐 Connect with Me: 
+- **Medium**: [@madhurprakash2005](https://medium.com/@madhurprakash2005)  
+- **LinkedIn**: [Madhur Prakash](https://www.linkedin.com/in/madhur-prakash-mangal-800085267)  
+
+---
+
+### 📫 Reach Me At:
+- **Email**: [madhurprakash2005@gmail.com](mailto:madhurprakash2005@gmail.com)
