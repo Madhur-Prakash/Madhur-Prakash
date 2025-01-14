@@ -10,7 +10,7 @@ A **Tech Enthusiast** and **Problem Solver** passionate about creating secure, s
 ---
 
 ### 💻 Skills and Tools:
-- **Programming**: Python, SQL, JavaScript  
+- **Programming**: Python, SQL, C, C++
 - **Cybersecurity**: Network Security 
 - **Blockchain**: Smart Contracts, Decentralized Applications (DApps)  
 - **Tools**: Postman, Git
