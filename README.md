@@ -10,7 +10,7 @@ A Tech Enthusiast, Problem Solver, and Security-Focused Developer passionate abo
 
 #### 🌐 Connect with Me:
 - **Medium**: [@madhurprakash2005](https://medium.com/@madhurprakash2005)  
-- **LinkedIn**: [Madhur Prakash](https://www.linkedin.com/in/madhur-prakash-mangal-800085267)
+- **LinkedIn**: [Madhur Prakash](www.linkedin.com/in/madhurprakashmangal)
   
 #### 📫 Reach Me At: [madhurprakash2005@gmail.com](mailto:madhurprakash2005@gmail.com)
 
