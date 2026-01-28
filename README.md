@@ -1,21 +1,33 @@
-# 👋 Hi, I'm Madhur Prakash
+<h1 align="center">👋 Hi, I'm Madhur Prakash</h1>
 
-A Tech Enthusiast, Problem Solver, and Security-Focused Developer passionate about building scalable, secure, and AI-integrated systems.
+<p align="center">
+  <a href="https://www.github.com/Madhur-Prakash">
+    <img src="https://img.shields.io/github/followers/Madhur-Prakash?logo=github&style=flat&color=0891b2" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Madhur-Prakash?style=flat&color=f97316" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Madhur-Prakash&color=blue" />
+</p>
+
+<p align="center">
+  A Tech Enthusiast, Problem Solver, and Security-Focused Developer passionate about building scalable, secure, and AI-integrated systems.
+</p>
 
 ---
 
-#### 🚀 Currently
+### 🚀 Currently
 Building intelligent systems using AI with tools like Kafka, Redis, and MongoDB to solve real-world problems.
 
-#### 🧠 Exploring
+### 🧠 Exploring
 Frontend frameworks and libraries like React.js for intuitive and interactive user experiences.
 
-#### 📝 Writing
+### 📝 Writing
 I break down complex tech into simple ideas on [Medium](https://medium.com/@madhurprakash2005)
 
 ---
 
-#### 🌐 Connect with Me
+### 🌐 Connect with Me
 - **Medium**: [@madhurprakash2005](https://medium.com/@madhurprakash2005)  
 - **LinkedIn**: [Madhur Prakash](https://www.linkedin.com/in/madhurprakashmangal)  
 - **Email**: [madhurprakash2005@gmail.com](mailto:madhurprakash2005@gmail.com)
