@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Madhur Prakash
 
-A Tech Enthusiast, Problem Solver, and Security-Focused Developer passionate about building scalable, secure, and AI-integrated systems. ---
+A Tech Enthusiast, Problem Solver, and Security-Focused Developer passionate about building scalable, secure, and AI-integrated systems. 
+
+---
 
 #### 🚀 Currently
 Building intelligent systems using AI with tools like Kafka, Redis, and MongoDB to solve real-world problems.
