@@ -28,7 +28,6 @@ I break down complex tech into simple ideas on [Medium](https://medium.com/@madh
 <tr>
 <td>
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Madhur-Prakash&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="170" alt="Madhur Prakash GitHub Stats" />
-
 </td>
 
 <td width="30"></td>
